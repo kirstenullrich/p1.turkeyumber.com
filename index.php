@@ -5,6 +5,7 @@
 <head>
 
 	<title>P1</title>
+	<meta charset="UTF-8">
 	<link href="style.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Raleway:400,800' rel='stylesheet' type='text/css'>
 
@@ -20,7 +21,7 @@
 			<h1>Kirsten Ullrich</h1>
 			<h2>Turkey Umber</h2>
 				<p>
-					Pariatur kitsch locavore Brooklyn. Eiusmod Neutra placeat distillery, ethical narwhal quis. Photo booth Pinterest delectus roof party, VHS keytar ugh bitters ea Pitchfork. Chambray street art deep v odio ethical, semiotics esse raw denim cray. Fanny pack deep v squid Terry Richardson, polaroid synth do iPhone freegan brunch. Biodiesel proident scenester before they sold out cardigan beard, plaid labore Vice raw denim. Meh you probably haven't heard of them farm-to-table pop-up, Brooklyn keytar food truck PBR&B ugh anim pug scenester mustache kogi cardigan.
+					Pariatur kitsch locavore Brooklyn. Eiusmod Neutra placeat distillery, ethical narwhal quis. Photo booth Pinterest delectus roof party, VHS keytar ugh bitters ea Pitchfork. Chambray street art deep v odio ethical, semiotics esse raw denim cray. Fanny pack deep v squid Terry Richardson, polaroid synth do iPhone freegan brunch. Biodiesel proident scenester before they sold out cardigan beard, plaid labore Vice raw denim. Meh you probably haven't heard of them farm-to-table pop-up, Brooklyn keytar food truck PBR ugh anim pug scenester mustache kogi cardigan.
 				</p>
 
 			<h2>The Rest</h2>
