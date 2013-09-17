@@ -60,15 +60,19 @@ p {
     color: #000000;
 }
 
-em {
+a {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
+    text-decoration: none;
+    color: #999999;
 }
 
 .container {
     display: block;
     width: 100%;
-    margin: 25px auto;
+    min-height:100%;
+    padding: 25px 0 35px 0;
+    overflow:auto;
 }
 
 .infobox {
@@ -85,4 +89,18 @@ em {
     -webkit-box-shadow: 1px 1px 10px #999999;
     -moz-box-shadow: 1px 1px 10px #999999;
     box-shadow:  1px 1px 10px #999999;
+}
+
+.footer {
+    display: block;
+    font-size: .75em;
+    font-style: italic;
+    color: #FFFFFF;
+    height: 35px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.space {
+    margin: 20px 0;
 }

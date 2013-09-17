@@ -18,23 +18,30 @@
 
 		<div class="infobox">
 
-			<h1>Kirsten Ullrich</h1>
+			<h1>Kirsten Ullrich, Project 1</h1>
+			<h2>About</h2>
+				<p>
+					I'm a distance student originally from Louisville, Kentucky who has lived in a good handful of places before landing in Brattleboro, Vermont with husband and cat five years ago. I earn my living doing graphic design, mostly for print, but increasing demand for web design has led me to explore 'the other side.' What I've learned thus far about web design and coding is a flea market-worthy hodgepodge of things that derive from using Dreamweaver, watching videos on lynda.com and treehouse.com, and (most informatively) from tackling projects that were bigger than my knowledge base at the time. As a result, I have a hard-earned working knowledge of web design that has plenty of gaps. And I also discovered that I really enjoy the process and challenge of figuring out a code problem and making it work. Who knew?.
+				</p>
+
 			<h2>Turkey Umber</h2>
 				<p>
-					Pariatur kitsch locavore Brooklyn. Eiusmod Neutra placeat distillery, ethical narwhal quis. Photo booth Pinterest delectus roof party, VHS keytar ugh bitters ea Pitchfork. Chambray street art deep v odio ethical, semiotics esse raw denim cray. Fanny pack deep v squid Terry Richardson, polaroid synth do iPhone freegan brunch. Biodiesel proident scenester before they sold out cardigan beard, plaid labore Vice raw denim. Meh you probably haven't heard of them farm-to-table pop-up, Brooklyn keytar food truck PBR ugh anim pug scenester mustache kogi cardigan.
+The part of my life that isn't devoted to making a living is devoted to making art. I got my MFA from the Tyler School of Art in 2005; I'm a painter and sculptor. While I use nearly any material I can get my hands on, I have an enduring love of oil paint, in part because of its incredible variety of very specific colors with long histories. One of those colors is turkey umber; the pigment is great, but I love it just as much for having a name that evokes Istanbul and a big, goofy bird at the same time. And, yes, I actually do use quite a bit of it. Here's what turkey umber looks like:
 				</p>
 
-			<h2>The Rest</h2>
+			<img src="images/turkeyumberswatch.jpg" class='space' alt="swatch of turkey umber color"/>
 				<p>
-	Literally aliqua master cleanse, lomo retro laboris High Life single-origin coffee actually butcher polaroid magna irure next level nesciunt. Etsy aliqua freegan food truck commodo, gentrify Bushwick adipisicing tempor. Mumblecore 90's cupidatat Tonx jean shorts. Eiusmod aliqua jean shorts, skateboard est 8-bit sed actually stumptown forage nihil. Fixie ethnic YOLO, elit yr placeat consectetur banh mi Odd Future Wes Anderson commodo. Dolor ethical Intelligentsia sapiente. Cardigan meh Schlitz Pinterest magna, proident asymmetrical quis post-ironic consequat culpa ullamco.
+My work is online at <a href="http://www.kirstenullrich.com">kirstenullrich.com</a>.
 				</p>
 
-			<h2>Code Editor</h2>
-				<p>Sublime Text 2</p>
 
 		</div> <!--close infobox-->
 
 	</div><!--close container-->
+
+	<div class='footer'>
+		Created with SublimeText 2
+	</div><!--close footer-->
 
 </body>
 
