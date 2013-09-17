@@ -37,7 +37,7 @@
 					And, yes, I actually do use quite a bit of it. Here's what turkey umber looks like:
 				</p>
 
-			<a href="http://books.google.com/books?id=RJnI4ld6qeoC&pg=PA144&lpg=PA144&dq=turkey+umber+pigment&source=bl&ots=9TP_ZL7oRz&sig=-blmaKbyiRDziHrSNrSNxQzQDVw&hl=en&sa=X&ei=4xUzUta0PPHF4APPy4H4Dw&ved=0CHYQ6AEwBzgK#v=onepage&q=turkey%20umber%20pigment&f=false" target="_blank"
+			<a href="http://books.google.com/books?id=RJnI4ld6qeoC&amp;pg=PA144&amp;lpg=PA144&amp;dq=turkey+umber+pigment&amp;source=bl&amp;ots=9TP_ZL7oRz&amp;sig=-blmaKbyiRDziHrSNrSNxQzQDVw&amp;hl=en&amp;sa=X&amp;ei=4xUzUta0PPHF4APPy4H4Dw&amp;ved=0CHYQ6AEwBzgK#v=onepage&amp;q=turkey%20umber%20pigment&amp;f=false" target="_blank"
 			title="'The name umber is derived from the Latin ombra (shadow) and describes simply the colour of a pigment ... Geologically, umbers are very fine-grained sedimentary rocks composed of manganese hydroxides and oxides (primarily the minerals manganite and pyrolusite) plus iron hydroxide (goethite) particles.
 
 The Cyprus-type umbers, with their olive-greenish cast, produce by far the best pigment and particularly popular was that derived from the Margi area, west of Nicosia.
